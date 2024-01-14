@@ -805,7 +805,7 @@ body {
       cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.moadal-form-button {
+.modal-form-button {
   font-family: "Roboto", sans-serif;
   display: block;
   min-width: 169px;
